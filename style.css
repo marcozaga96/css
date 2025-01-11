@@ -41,19 +41,29 @@ main {
   padding-left: 18px;
   font-weight: bold;
 }
-#second-p a {
+#second-p a,
+#method a {
   color: rgb(52, 102, 102);
 }
-#ingredients h2 {
+#ingredients h2,
+#method h2 {
   margin: 30px 0;
   padding: 20px 0;
   border-bottom: 2px solid aquamarine;
 }
-#ingredients p {
+#ingredients p,
+#method p {
   font-weight: bold;
   line-height: 4rem;
 }
 ul li {
   line-height: 2rem;
+  margin-left: 40px;
+}
+ol li span {
+  font-weight: bold;
+  line-height: 3rem;
+}
+ol li {
   margin-left: 40px;
 }
