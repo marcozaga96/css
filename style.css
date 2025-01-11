@@ -1,0 +1,45 @@
+header {
+  text-align: center;
+  color: rgb(29, 81, 64);
+}
+header img {
+  width: 18%;
+}
+header span {
+  font-weight: bolder;
+}
+#first-p {
+  background-color: #fdfbf1;
+  border-top: 1px solid #eedc82;
+  padding: 18px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+#hero {
+  text-align: center;
+}
+#hero p {
+  text-align: start;
+  margin-bottom: 15px;
+  margin-top: 50px;
+}
+main {
+  margin: 3% 20%;
+}
+#hero img {
+  border-radius: 2%;
+  margin-bottom: 15px;
+}
+#hero h4 {
+  color: grey;
+}
+#second-p {
+  border-left: 3px solid #eedc82;
+  color: brown;
+  padding-left: 18px;
+}
+#second-p a {
+  color: rgb(52, 102, 102);
+}
