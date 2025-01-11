@@ -39,7 +39,21 @@ main {
   border-left: 3px solid #eedc82;
   color: brown;
   padding-left: 18px;
+  font-weight: bold;
 }
 #second-p a {
   color: rgb(52, 102, 102);
+}
+#ingredients h2 {
+  margin: 30px 0;
+  padding: 20px 0;
+  border-bottom: 2px solid aquamarine;
+}
+#ingredients p {
+  font-weight: bold;
+  line-height: 4rem;
+}
+ul li {
+  line-height: 2rem;
+  margin-left: 40px;
 }
